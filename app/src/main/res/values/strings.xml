@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SuperMonitor</string>
+    <string name="no_applications">No Application</string>
+    <string name="settings_safetylegal_activity_loading">loading...</string>
+        <string name="accessService">Tap the Switch at the top-right corner.
+Afer Tapping the switch,the system will send a notice warning you about your
+ personal information.Please be assured that Android will not collect any personal information.
+System Requirements:Android 4.1 or later version.</string>
+</resources>
